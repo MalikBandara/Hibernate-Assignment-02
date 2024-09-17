@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HQL" />
         <module name="SQL" />
+        <module name="JPQL" />
       </profile>
     </annotationProcessing>
   </component>
